@@ -1,0 +1,202 @@
+gui.done=Fertig
+gui.cancel=Abbrechen
+gui.toMenu=Zurück
+gui.up=Hoch
+gui.down=Runter
+gui.yes=Ja
+gui.no=Nein
+
+menu.singleplayer=Spielen
+menu.multiplayer=Server
+menu.multiplayer.disabled=Server nicht verfügbar!
+menu.mods=Texturpakete
+menu.options=Optionen
+menu.quit=Beenden
+menu.saveAndQuit=Speichern und beenden
+
+gui.photomode.help_text=Klicken und ziehen zum bewegen.
+
+selectWorld.title=Welt auswählen
+selectWorld.empty=Leer
+selectWorld.world=Welt
+selectWorld.moreWorldOptions=Mehr Welteinstellungen
+selectWorld.select=Auswahl laden
+selectWorld.create=Welt erstellen
+selectWorld.createDemo=Demo erstellen
+selectWorld.delete=Löschen
+selectWorld.rename=Umbenennen
+selectWorld.deleteQuestion=Möchtest du diese Welt löschen?
+selectWorld.deleteWarning=Sie wird für immer verloren sein! (eine lange Zeit!)
+selectWorld.deleteButton=Löschen
+selectWorld.renameButton=Umbenennen
+selectWorld.renameTitle=Welt umbenennen
+selectWorld.conversion=Welt muss konvertiert werden!
+selectWorld.outdated=Veraltet!
+selectWorld.newWorld=Neue Welt
+selectWorld.enterName=Namen eingeben
+selectWorld.gamemode=Spielmodus:
+selectWorld.cheats=Cheats:
+selectWorld.worldType=Welttyp:
+selectWorld.enterSeed=Seed für den Weltgenerator
+
+level.generating=Welt wird generiert...
+level.loading=Lade Terrain...
+
+controller.noControllerSelected=Kein Gamepad ausgewählt!
+controller.back=Zurück
+controller.help1=Gamepad in den Einstellungen aus
+controller.help2=der Dropdown-Liste auswählen!
+
+selectServer.title=Server auswählen
+selectServer.connect=Verbinden
+selectServer.ip=Direkt verbinden
+selectServer.add=Hinzufügen
+selectServer.delete=Löschen
+
+addServer.title=Server hinzufügen
+addServer.serverName=Servername
+addServer.ipAddress=Serveradresse
+addServer.save=Speichern
+
+dimension.overworld.name=Oberwelt
+dimension.hell.name=Nether
+dimension.paradise.name=Paradise
+
+season.overworld.spring.name=Frühling
+season.overworld.summer.name=Sommer
+season.overworld.fall.name=Herbst
+season.overworld.winter.name=Winter
+season.overworld.hell.name=Nether
+season.overworld.winter.endless.name=Eiszeit
+season.paradise.gold.name=Gold
+season.paradise.silver.name=Silber
+
+weather.overworld.clear.name=Klar
+weather.overworld.clear.hell.name=Klar
+weather.overworld.clear.woods.name=Klar
+weather.overworld.rain.name=Regen
+weather.overworld.snow.name=Schnee
+weather.overworld.winter.snow.name=Schnee
+weather.overworld.storm.name=Sturm
+weather.overworld.fog.name=Nebel
+
+gamemode.survival.name=Überleben
+gamemode.creative.name=Kreativ
+
+worldType.overworld.name=Oberwelt
+worldType.hell.name=Nether
+worldType.woods.name=Wälder
+worldType.paradise.name=Paradise
+worldType.flat.name=Superflach
+worldType.winter.name=Winter
+worldType.retro.name=Klassisch
+worldType.islands.name=Inseln
+worldType.ruins.name=Ruinen
+worldType.dungeons.name=Verliese
+worldType.deeper.name=Tiefer
+worldType.empty.name=Leer
+worldType.debug.name=Debug
+worldType.floating.name=Schwebend
+worldType.inland.name=Festland
+
+multiplayer.title=Direkt verbinden
+multiplayer.connect=Verbinden
+multiplayer.info1=Adresse und Port zur Verbindung
+multiplayer.info2=angeben und bestätigen
+multiplayer.ipinfo=Hostadresse eingeben:
+
+multiplayer.downloadingTerrain=Terrain wird heruntergeladen...
+
+multiplayer.stopSleeping=Aufwachen
+
+demo.day.1=Diese Demo dauert 5 Tage, viel Glück!
+demo.day.2=Tag 2
+demo.day.3=Tag 3
+demo.day.4=Tag 4
+demo.day.5=Letzer Tag der Demo!
+demo.day.warning=Die Demo endet gleich!
+demo.day.6=Drücke nach dem Ende der Demo F2, um deine Kreation zu speichern.
+demo.reminder=Die Demozeit ist abgelaufen und das Spiel muss gekauft werden um weiterzuspielen!
+demo.help.movement=Drücke %1$s, %2$s, %3$s, %4$s zum umnherlaufen
+demo.help.jump=Springe mit %1$s
+demo.help.inventory=Öffne mit %1$s das Inventar
+
+connect.connecting=Server wird gesucht...
+connect.authorizing=Authorisiere bei Xbox-Live...
+connect.failed=Keine Verbindung zur Welt
+
+disconnect.genericReason=%s
+disconnect.disconnected=Verbindung zum Server getrennt
+disconnect.lost=Verbindung zum Server verloren
+disconnect.kicked=Du wurdest aus dem Spiel geworfen
+disconnect.timeout=Zeitüberschreitung bei der Verbindung
+disconnect.closed=Eine bestehende Verbindung wurde vom Remote-Host geschlossen
+disconnect.loginFailed=Authorisierung fehlgeschlagen
+disconnect.loginFailedInfo=Fehler bei der Anmeldung: %s
+disconnect.quitting=Wird beendet...
+disconnect.endOfStream=Paket zu kurz
+disconnect.overflow=Paket zu lang
+
+damagetype.combat=Kampf
+damagetype.projectile=Projektil
+damagetype.blast=Explosion
+damagetype.fall=Fall
+damagetype.fire=Feuer
+
+controls.title=Seterung
+keybinds.title=Tastenbelegung
+keybinds.info=Drücke Esc zum löschen
+
+texturePack.openFolder=Ordner öffnen
+texturePack.title=Texturpakete
+texturePack.folderInfo=(Texturpakete in Ordner ablegen)
+
+bed.occupied=Dieses Bett ist belegt
+bed.noSleep=Du kannst jetzt nicht schlafen, es sind Monster in der Nähe
+bed.setSpawn=Wiedereinstiegspunkt festgelegt
+bed.notValid=Wiedereinstiegspunkt blockiert oder zerstört
+
+sign.image.none=Keine Abbildung
+sign.image.arrow_right=Pfeil nach rechts
+sign.image.arrow_left=Pfeil nach links
+sign.image.arrow_down=Pfeil nach unten
+sign.image.arrow_up=Pfeil nach oben
+sign.image.caution=Warnung
+sign.image.mobs=Kreaturen
+sign.image.trees=Bäume
+sign.image.chest=Truhe
+sign.image.pickaxe=Spitzhacke
+sign.image.wolf=Wolf
+sign.image.sword=Schwert
+sign.image.hoe=Hacke
+sign.image.axe=Axt
+sign.image.shovel=Schaufel
+sign.image.bowl=Schüssel
+sign.image.tnt=TNT
+sign.image.mob_farm=Kreaturfarm
+sign.image.mine=Mine
+sign.image.redstone=Redstone
+sign.image.farm=Farm
+sign.image.barricade=Barrikade
+sign.image.question_mark=Fragezeichen
+sign.image.face_smile=Lächeln
+sign.image.face_sad=Trauern
+sign.image.face_crying=Weinen
+sign.image.face_gasp=Schock
+sign.image.face_thinking=Nachdenken
+sign.image.face_confused=Verwirrt
+sign.image.big_sign=Schild
+sign.image.mob_zombie=Zombie
+sign.image.mob_skeleton=Skelett
+sign.image.mob_creeper=Creeper
+sign.image.one_player=Ein Spieler
+sign.image.two_players=Zwei Spieler
+sign.image.three_players=Drei Spieler
+sign.image.cross=Kreuz
+sign.image.craft=Handwerk
+sign.image.afk=AFK
+sign.image.brb=BRB
+
+flag.full=Es sind zu viele Flaggen in dieser Welt
+flag.overwrite=Ein bestehendes Muster kann nicht entfernt werden
+flag.copied=Flaggendesign kopiert

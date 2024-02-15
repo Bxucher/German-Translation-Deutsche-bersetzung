@@ -1,0 +1,168 @@
+gui.achievements=Erfolge
+gui.stats=Statistiken
+
+stat.generalButton=Allgemein
+stat.blocksButton=Blöcke
+stat.itemsButton=Gegenstände
+
+stat.used=Verwendet
+stat.mined=Abgebaut
+stat.depleted=Verbraucht
+stat.crafted=Hergestellt
+
+stat.startGame=Spiel gestartet
+stat.createWorld=Welt erstellt
+stat.loadWorld=Welt geladen
+stat.joinMultiplayer=Server betreten
+stat.leaveGame=Spiel verlassen
+
+stat.playOneMinute=Minuten gespielt
+
+stat.walkOneCm=cm gelaufen
+stat.fallOneCm=cm gefallen
+stat.swimOneCm=cm geschwommen
+stat.flyOneCm=cm geflogen
+stat.climbOneCm=cm geklettert
+stat.diveOneCm=cm getaucht
+stat.minecartOneCm=cm Minenwagen gefahren
+stat.boatOneCm=cm Boot gefahren
+stat.pigOneCm=cm Schwein geritten
+stat.jump=Gesprungen
+stat.drop=Fallen gelassen
+
+stat.damageDealt=Schaden zugefügt
+stat.damageTaken=Schaden erlitten
+stat.deaths=Tode
+stat.mobKills=Kreaturen getötet
+stat.playerKills=Spieler getötet
+stat.fishCaught=Fische gefangen
+
+stat.mineBlock=%1$s abgebaut
+stat.craftItem=%1$s hergestellt
+stat.useItem=%1$s verbraucht
+stat.breakItem=%1$s zerstört
+
+achievement.get=Erfolg erhalten!
+
+achievement.taken=Erfolg erhalten!
+
+achievement.requires=Erfordert '%1$s'
+achievement.openInventory=Inventur
+achievement.openInventory.desc=Öffne mit '%1$s' dein Inventar.
+achievement.mineWood=Dreimal auf Holz geklopft
+achievement.mineWood.desc=Schlage gegen einen Baum bis ein Holzblock herausspringt.
+achievement.buildWorkBench=Werkbank bauen
+achievement.buildWorkBench.desc=Baue aus vier Holzbrettern eine Werkbank.
+achievement.buildPickaxe=Glück Auf!
+achievement.buildPickaxe.desc=Stell aus Brettern und Stöcken eine Spitzhacke her.
+achievement.buildFurnace=Heiße Angelegenheit
+achievement.buildFurnace.desc=Stell aus 8 Bruchstein-Blöcken einen Ofen her.
+achievement.acquireIron=Schmiedekunst
+achievement.acquireIron.desc=Schmilz einen Eisenbarren.
+achievement.buildHoe=Fang an zu ackern!
+achievement.buildHoe.desc=Stell eine Hacke her.
+achievement.makeBread=Bäcker
+achievement.makeBread.desc=Backe ein Brot aus Weizen.
+achievement.bakeCake=Die Lüge
+achievement.bakeCake.desc=Backe einen Kuchen aus Weizen, Zucker, Milch und Eiern.
+achievement.buildBetterPickaxe=Technischer Fortschritt
+achievement.buildBetterPickaxe.desc=Stelle eine bessere Spitzhacke her.
+achievement.cookFish=Köstlicher Fisch
+achievement.cookFish.desc=Fange und brate einen Fisch.
+achievement.onARail=Bahn frei!
+achievement.onARail.desc=Reise mit eine Lore mindestens 1 km in eine Richtung.
+achievement.buildSword=Zu den Waffen!
+achievement.buildSword.desc=Stelle ein Schwert aus Brettern und Stöcken her.
+achievement.killEnemy=Monsterjäger
+achievement.killEnemy.desc=Greife ein Monster an und töte es.
+achievement.killCow=Kuhschubser
+achievement.killCow.desc=Gewinne Leder.
+achievement.flyPig=Wenn Schweine fliegen
+achievement.flyPig.desc=Benutz einen Sattel und reite ein Schwein. Lass das Schein mit Ritt von Fallschaden verletzt werden.
+achievement.getSensed=Erspührt
+achievement.getSensed.desc=Werde von einem Bewegungssensor erkannt.
+achievement.craftHandcannon=Ego-Shooter
+achievement.craftHandcannon.desc=Erlange eine Handfeuerwaffe.
+achievement.collectStone=Steinzeit
+achievement.collectStone.desc=Finde und sammle jede Art von Gestein.
+achievement.crushBlocks=Eisbrecher
+achievement.crushBlocks.desc=Zerstöre Eis durch den Druck eines Obsidianblocks.
+achievement.repairArmour=Panzerwartung
+achievement.repairArmour.desc=Repariere deine Rüstungen.
+achievement.chainmailGet=Verkettet
+achievement.chainmailGet.desc=Trage eine vollständige Kettenrüstung.
+
+BTA ENDE
+
+ANFANG INDUSTRY2
+
+industry2.achievements.page.desc=Eine Simple Anleitung zu Industry2.
+
+achievement.industry.resin=Klebrige Situation!
+achievement.industry.resin.desc=Hole Harz von einem Gummiholzbaum mit einem Treetap.
+achievement.industry.ores=Miner der neuen Erze
+achievement.industry.ores.desc=Finde Zinn-, Kupfer- oder Uranerz.
+achievement.industry.hammer=Hör mal wer da Hämmert!
+achievement.industry.hammer.desc=Bau einen Plattenhammer aus Eisen und Stöcken.
+achievement.industry.cutters=Schnip Schnap
+achievement.industry.cutters.desc=Bau einen Kabelschneider aus Eisenplatten und Barren.
+achievement.industry.cables=Energie fluss
+achievement.industry.cables.desc=Bau ein paar Kabel. (Isoliere sie dann mit Gummi)
+achievement.industry.generator=Verwendbare Kraft
+achievement.industry.generator.desc=Bau einen Generator.
+achievement.industry.furnace=Noch Heißere Angelegenheit
+achievement.industry.furnace.desc=Bau ein Elektrischen Ofen.
+achievement.industry.macerator=Doppelter Ärger
+achievement.industry.macerator.desc=Bau ein Mazerator.
+achievement.industry.compressor=Enger Druck
+achievement.industry.compressor.desc=Bau ein Kompressor.
+achievement.industry.wiremill=Voll verdrahtet
+achievement.industry.wiremill.desc=Bau ein Drahtwerk
+achievement.industry.extractor=Super Treetap
+achievement.industry.extractor.desc=Bau ein Extraktor.
+achievement.industry.recycler=Keine Filtertrommel
+achievement.industry.recycler.desc=Bau ein Recycler.
+achievement.industry.cannery=Haltbar-Gemacht
+achievement.industry.cannery.desc=Bau eine Konservenmaschine.
+achievement.industry.trommel=Roundabout
+achievement.industry.trommel.desc=Bau eine Elektrische Filtertrommel.
+achievement.industry.watermill=Wasser Kraft
+achievement.industry.watermill.desc=Bau ein Wasserrad.
+achievement.industry.windmill=Zieht ein Sturm auf?
+achievement.industry.windmill.desc=Bau ein Windrad.
+achievement.industry.geothermal=Heiße Kraft
+achievement.industry.geothermal.desc=Bau ein Geothermiegenerator.
+achievement.industry.solar=Sonnen-Kraft
+achievement.industry.solar.desc=Bau ein Solargenerator.
+achievement.industry.array.lv=Solar Verbesserung
+achievement.industry.array.lv.desc=Bau eine LV-Solaranlage.
+achievement.industry.array.mv=Heiße Sonne
+achievement.industry.array.mv.desc=Bau eine MV-Solaranlage.
+achievement.industry.array.hv=Einfach zuviel
+achievement.industry.array.hv.desc=Bau eine HV-Solaranlage.
+achievement.industry.array.ehv=Übertrieben
+achievement.industry.array.ehv.desc=Bau eine EHV-Solaranlage. (Gib dir ein Klopfer auf die Schulter dafür)
+achievement.industry.batbox=Verstau es!
+achievement.industry.batbox.desc=Bau eine LV-Batteriebox.
+achievement.industry.drill=Lern den Doktor kennen
+achievement.industry.drill.desc=Bau einen Bohrer.
+achievement.industry.drill.gold=Behutsammes bohren
+achievement.industry.drill.gold.desc=Verbessere zu einem Bohrer mit einer Goldspitze.
+achievement.industry.drill.diamond=Wertvolle Verbesserung
+achievement.industry.drill.diamond.desc=Verbessere zu einem Bohrer mit einer Diamantspitze.
+achievement.industry.chainsaw=Holzfäller
+achievement.industry.chainsaw.desc=Bau eine Kettensäge.
+achievement.industry.chainsawcreeper=Creeper Kettensägenmassaker
+achievement.industry.chainsawcreeper.desc=Töte einen Creeper mit einer Kettensäge.
+achievement.industry.nanosword=Möge die Macht mit dir sein
+achievement.industry.nanosword.desc=Bau ein Nanoschwert.
+achievement.industry.reactor=Kernarchitektur
+achievement.industry.reactor.desc=Bau ein Nuklearreactor. (Tip: Der aufbau benötigt Zwei I/O Ein- und Ausgänge und Vier Gehäuse)
+achievement.industry.fabricator=Was ist Materie?
+achievement.industry.fabricator.desc=Bau ein Energiekompremierer.
+achievement.industry.iridium=Seltene Wunder
+achievement.industry.iridium.desc=Mit Drei Sücken rohiridium, werden ein Barren. (Warnung - Barren können NICHT aus Energie Kompremiert werden!)
+achievement.industry.iridiumarmor=Unsterblich
+achievement.industry.iridiumarmor.desc=Bau ein Teil der Unzerstörbaren Iridium Rüstung.
+
+INDUSTRY2 ENDE
