@@ -3,7 +3,7 @@ Translation status:
 Main bta 100% Done as of version 1.7.7.0_02/7.1 Pre1a
 
 ⁠Bonus Blocks 100% Done as of version 1.4
-⁠
+
 Industry2 100% Done as of version 1.0.1-7.0 (Proof Reading is Pending)
 
 ⁠Signal Industries (currently delayed until i get the time to translate activly again)
