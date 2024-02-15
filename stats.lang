@@ -16,14 +16,14 @@ stat.loadWorld=Welt geladen
 stat.joinMultiplayer=Server betreten
 stat.leaveGame=Spiel verlassen
 
-stat.playOneMinute=Minuten gespielt
+stat.playOneMinute=Stunden gespielt
 
-stat.walkOneCm=cm gelaufen
-stat.fallOneCm=cm gefallen
-stat.swimOneCm=cm geschwommen
-stat.flyOneCm=cm geflogen
+stat.walkOneCm=km gelaufen
+stat.fallOneCm=km gefallen
+stat.swimOneCm=m geschwommen
+stat.flyOneCm=km geflogen
 stat.climbOneCm=cm geklettert
-stat.diveOneCm=cm getaucht
+stat.diveOneCm=m getaucht
 stat.minecartOneCm=cm Minenwagen gefahren
 stat.boatOneCm=cm Boot gefahren
 stat.pigOneCm=cm Schwein geritten
@@ -79,7 +79,7 @@ achievement.killCow=Kuhschubser
 achievement.killCow.desc=Gewinne Leder.
 achievement.flyPig=Wenn Schweine fliegen
 achievement.flyPig.desc=Benutz einen Sattel und reite ein Schwein. Lass das Schein mit Ritt von Fallschaden verletzt werden.
-achievement.getSensed=Erspührt
+achievement.getSensed=Erspürt
 achievement.getSensed.desc=Werde von einem Bewegungssensor erkannt.
 achievement.craftHandcannon=Ego-Shooter
 achievement.craftHandcannon.desc=Erlange eine Handfeuerwaffe.
@@ -93,6 +93,10 @@ achievement.chainmailGet=Verkettet
 achievement.chainmailGet.desc=Trage eine vollständige Kettenrüstung.
 
 BTA ENDE
+
+
+
+
 
 ANFANG INDUSTRY2
 

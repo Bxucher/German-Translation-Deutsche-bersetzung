@@ -9,12 +9,12 @@ gui.no=Nein
 menu.singleplayer=Spielen
 menu.multiplayer=Server
 menu.multiplayer.disabled=Server nicht verfügbar!
-menu.mods=Texturpakete
+menu.mods=Texturenpakete
 menu.options=Optionen
 menu.quit=Beenden
 menu.saveAndQuit=Speichern und beenden
 
-gui.photomode.help_text=Klicken und ziehen zum bewegen.
+gui.photomode.help_text=Klicken und ziehen zum Bewegen.
 
 selectWorld.title=Welt auswählen
 selectWorld.empty=Leer
@@ -22,7 +22,7 @@ selectWorld.world=Welt
 selectWorld.moreWorldOptions=Mehr Welteinstellungen
 selectWorld.select=Auswahl laden
 selectWorld.create=Welt erstellen
-selectWorld.createDemo=Demo erstellen
+selectWorld.createDemo=Demowelt erstellen
 selectWorld.delete=Löschen
 selectWorld.rename=Umbenennen
 selectWorld.deleteQuestion=Möchtest du diese Welt löschen?
@@ -35,14 +35,14 @@ selectWorld.outdated=Veraltet!
 selectWorld.newWorld=Neue Welt
 selectWorld.enterName=Namen eingeben
 selectWorld.gamemode=Spielmodus:
-selectWorld.cheats=Cheats:
+selectWorld.cheats=Cheats erlauben:
 selectWorld.worldType=Welttyp:
 selectWorld.enterSeed=Seed für den Weltgenerator
 
-level.generating=Welt wird generiert...
-level.loading=Lade Terrain...
+level.generating=Welt wird generiert ...
+level.loading=Lade Terrain ...
 
-controller.noControllerSelected=Kein Gamepad ausgewählt!
+controller.noControllerSelected=Kein Controller ausgewählt!
 controller.back=Zurück
 controller.help1=Gamepad in den Einstellungen aus
 controller.help2=der Dropdown-Liste auswählen!
@@ -105,7 +105,7 @@ multiplayer.info1=Adresse und Port zur Verbindung
 multiplayer.info2=angeben und bestätigen
 multiplayer.ipinfo=Hostadresse eingeben:
 
-multiplayer.downloadingTerrain=Terrain wird heruntergeladen...
+multiplayer.downloadingTerrain=Terrain wird heruntergeladen ...
 
 multiplayer.stopSleeping=Aufwachen
 
@@ -116,13 +116,13 @@ demo.day.4=Tag 4
 demo.day.5=Letzer Tag der Demo!
 demo.day.warning=Die Demo endet gleich!
 demo.day.6=Drücke nach dem Ende der Demo F2, um deine Kreation zu speichern.
-demo.reminder=Die Demozeit ist abgelaufen und das Spiel muss gekauft werden um weiterzuspielen!
-demo.help.movement=Drücke %1$s, %2$s, %3$s, %4$s zum umnherlaufen
+demo.reminder=Die Demozeit ist abgelaufen! Sas Spiel muss gekauft werden, um weiterzuspielen!
+demo.help.movement=Drücke %1$s, %2$s, %3$s, %4$s zum umherlaufen
 demo.help.jump=Springe mit %1$s
 demo.help.inventory=Öffne mit %1$s das Inventar
 
-connect.connecting=Server wird gesucht...
-connect.authorizing=Authorisiere bei Xbox-Live...
+connect.connecting=Server wird gesucht ...
+connect.authorizing=Authorisiere bei Xbox-Live ...
 connect.failed=Keine Verbindung zur Welt
 
 disconnect.genericReason=%s
@@ -133,7 +133,7 @@ disconnect.timeout=Zeitüberschreitung bei der Verbindung
 disconnect.closed=Eine bestehende Verbindung wurde vom Remote-Host geschlossen
 disconnect.loginFailed=Authorisierung fehlgeschlagen
 disconnect.loginFailedInfo=Fehler bei der Anmeldung: %s
-disconnect.quitting=Wird beendet...
+disconnect.quitting=Wird beendet ...
 disconnect.endOfStream=Paket zu kurz
 disconnect.overflow=Paket zu lang
 
@@ -145,11 +145,11 @@ damagetype.fire=Feuer
 
 controls.title=Seterung
 keybinds.title=Tastenbelegung
-keybinds.info=Drücke Esc zum löschen
+keybinds.info=Drücke ESC zum Löschen
 
 texturePack.openFolder=Ordner öffnen
-texturePack.title=Texturpakete
-texturePack.folderInfo=(Texturpakete in Ordner ablegen)
+texturePack.title=Texturenpakete
+texturePack.folderInfo=(Texturenpakete in Ordner ablegen)
 
 bed.occupied=Dieses Bett ist belegt
 bed.noSleep=Du kannst jetzt nicht schlafen, es sind Monster in der Nähe
