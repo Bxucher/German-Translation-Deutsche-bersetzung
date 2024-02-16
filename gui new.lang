@@ -45,8 +45,8 @@ gui.connecting.label.connecting=Verbinde zum Server ...
 gui.connecting.label.logging_in=Anmelden ...
 
 gui.controller_setup.button.back=Zurück
-gui.controller_setup.label.help.1=Es wurde kein Controller erkannt! Überprüfe ob einer verbunden ist.
-gui.controller_setup.label.help.2=Starte das Spiel mit dem Controller verbunden.
+gui.controller_setup.label.help.1=Es wurde kein Controller erkannt! Überprüfe, ob einer verbunden ist.
+gui.controller_setup.label.help.2=Starte das Spiel mit einem verbundenen Controller.
 gui.controller_setup.label.no_controller_selected=Kein Controller ausgewählt!
 
 gui.crafting.label.crafting=Handwerk
